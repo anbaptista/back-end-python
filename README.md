@@ -28,3 +28,5 @@ Você poderá utilizar seu repositório de duas maneiras:
 Ao clonar o repositório, realize o primeiro `commit` incluindo seu nome neste arquivo README.
 
 Bons estudos e divirta-se!
+
+_Aluna: Angela Filomena_ 2-bootcamp-back-end-python-e-django [anbaptista](https://github.com/anbaptista/)
